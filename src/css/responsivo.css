@@ -1,0 +1,36 @@
+@media(max-width: 1280px) {
+    
+    .logo {
+        padding: 30px;
+    }
+
+    .home {
+      
+        margin: 30px;
+        
+    }
+
+    .home .container-qrcode .informacoes h1{
+            font-size: 18px;
+            letter-spacing: 2px;
+            
+    }
+    .home .container-qrcode .informacoes h2{
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+}
+
+  
+
+@media(max-width: 411px) {
+    .home .container-qrcode .informacoes h1{
+        font-size: 16px;
+        letter-spacing: 1px;
+        
+}
+    .home .container-qrcode .informacoes h2{
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+}
